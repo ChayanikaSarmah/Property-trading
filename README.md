@@ -63,7 +63,7 @@ For any inquiries or further information about the project, please reach out to 
 - **Name:** Chayanika Sarmah
 - **Email:** chayanikasarmah252.email@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/chayanika-sarmah-b474a5209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- **GitHub:** [Your GitHub Profile](https://github.com/ChayanikaSarmah)
+- **GitHub:** https://github.com/ChayanikaSarmah/Property-trading
 
 ---
 
