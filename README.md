@@ -4,7 +4,7 @@
 
 
 
-## Vision
+## Description
 Our vision is to democratize real estate investment by allowing individuals to participate in fractional property ownership through a secure and transparent blockchain platform. This smart contract empowers investors to purchase shares in properties, receive dividends, and participate in governance decisions, all while ensuring security and fairness through Ethereum-based smart contracts.
 
 ## Project Overview
@@ -52,7 +52,7 @@ The deployed smart contract for fractional property investment can be found on t
 - **Transparency and Security:** All transactions and governance decisions are recorded on the Ethereum blockchain, ensuring transparency and immutability.
 
 ## Vision
-Our vision is to democratize real estate investment by allowing individuals to participate in fractional property ownership through a secure and transparent blockchain platform. This smart contract empowers investors to purchase shares in properties, receive dividends, and participate in governance decisions, all while ensuring security and fairness through Ethereum-based smart contracts.
+Our vision is to make real estate investment accessible to everyone by enabling fractional ownership through a secure and transparent blockchain platform. We aim to democratize property investment by allowing individuals to purchase shares in properties, receive dividends, and participate in governance decisions. Our Ethereum-based smart contracts ensure security, transparency, and fairness, empowering investors to benefit from real estate opportunities regardless of their financial background. We seek to create a more inclusive, equitable, and efficient real estate market for all.
 
 ## Contact Information
 For any inquiries or further information about the project, please reach out to me:
