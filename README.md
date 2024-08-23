@@ -51,11 +51,8 @@ The deployed smart contract for fractional property investment can be found on t
 - **Decentralized Governance:** Investors can propose and vote on decisions related to property management.
 - **Transparency and Security:** All transactions and governance decisions are recorded on the Ethereum blockchain, ensuring transparency and immutability.
 
-## Future Scope
-- **Secondary Market:** Introduce a marketplace for trading property shares, enhancing liquidity for investors.
-- **Oracle Integration:** Integrate real-world data (e.g., property valuations) to automate and enhance dividend calculations.
-- **Cross-Chain Expansion:** Expand the platform to support multiple blockchain networks, enabling wider access to the platform.
-- **Advanced Governance Models:** Explore more sophisticated governance mechanisms such as quadratic voting or multi-signature wallets.
+## Vision
+Our vision is to democratize real estate investment by allowing individuals to participate in fractional property ownership through a secure and transparent blockchain platform. This smart contract empowers investors to purchase shares in properties, receive dividends, and participate in governance decisions, all while ensuring security and fairness through Ethereum-based smart contracts.
 
 ## Contact Information
 For any inquiries or further information about the project, please reach out to me:
