@@ -40,7 +40,9 @@ The Fractional Property Investment smart contract enables property owners to tok
 The deployed smart contract for fractional property investment can be found on the Ethereum blockchain at the following address:
 
 **Contract Address:** `0xEc5aB73c89A9B8D134c44F4E071924567c49b48a `
-![image](https://github.com/user-attachments/assets/443fa24d-16d1-4293-8fe4-980d63d23d3a)
+
+![image](https://github.com/user-attachments/assets/b4a44126-ed29-45fc-af7e-18a811c97032)
+
 
 
 ## Key Features
@@ -60,7 +62,7 @@ For any inquiries or further information about the project, please reach out to 
 
 - **Name:** Chayanika Sarmah
 - **Email:** chayanikasarmah252.email@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/Chaya)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ChayanikaSarmah)
 - **GitHub:** [Your GitHub Profile](https://github.com/ChayanikaSarmah)
 
 ---
