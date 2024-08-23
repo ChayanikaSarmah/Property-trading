@@ -43,6 +43,9 @@ The deployed smart contract for fractional property investment can be found on t
 
 ![image](https://github.com/user-attachments/assets/b4a44126-ed29-45fc-af7e-18a811c97032)
 
+## Network 
+Educhain 
+
 
 
 ## Key Features
@@ -59,7 +62,7 @@ For any inquiries or further information about the project, please reach out to 
 
 - **Name:** Chayanika Sarmah
 - **Email:** chayanikasarmah252.email@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ChayanikaSarmah)
+- **LinkedIn:** https://www.linkedin.com/in/chayanika-sarmah-b474a5209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - **GitHub:** [Your GitHub Profile](https://github.com/ChayanikaSarmah)
 
 ---
